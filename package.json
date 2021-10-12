@@ -1,0 +1,10 @@
+{
+  "name": "Fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "nodemon": "^2.0.13"
+  }
+}
